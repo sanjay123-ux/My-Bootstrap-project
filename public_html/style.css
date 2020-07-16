@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 Jun, 2020, 12:48:14 AM
+    Author     : LENOVO
+*/
+
+#banner_image {
+    margin-top: 4%;
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("img/intro-bg_1.jpg")no-repeat center;
+    background-size: cover;
+}
+
+#banner_content {
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+}
+
+footer {
+    position: fixed;
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.row_style {
+    margin-top: 10px;
+    margin: 50px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.row {
+    margin-top: 80px;
+}
+
+.jumbotron {
+    margin-top: 80px;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+         -o-transition: border .2s ease-in-out;
+            transition: border .2s ease-in-out;
+}
+
+table {
+   border: 1px solid;
+   width: 100%;
+   border-collapse: collapse;
+   margin-top: 80px;
+   text-align: center;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #a4a4a4;
+    height: 30px;
+    text-align: center;
+}
+
+.container_decor {
+    height: 80px;
+}
+
+
